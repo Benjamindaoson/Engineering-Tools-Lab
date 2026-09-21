@@ -1,5 +1,7 @@
 # Engineering Tools Lab — Project Index
 
+> Status labels and update rules: [Governance policy](GOVERNANCE.md).
+
 ## Independent tools
 
 | Repository | Capability | Visibility | Hub action |
