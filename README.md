@@ -51,3 +51,8 @@ Release / Update / Recovery
 ## Repository policy
 
 Large or durable products remain independent. Small scripts and bounded utilities may move into `projects/` after dependency, license, and secret scans.
+
+
+## Governance
+
+This Hub follows the shared status taxonomy, link-only policy, private-research boundary, and release/archive synchronization checklist in [GOVERNANCE.md](GOVERNANCE.md).
